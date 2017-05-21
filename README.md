@@ -1,1 +1,2 @@
-My resume :)
+My resume using JsonResume Slick Theme
+
