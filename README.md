@@ -1,2 +1,1 @@
-My resume using JsonResume Slick Theme
-
+Go to <a href="andreefps.github.io">andreefps.github.io</a> :)
